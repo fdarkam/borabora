@@ -11,7 +11,7 @@
   <section id="content">
     <div class="container_12 top">
       <div class="grid_12 box-1">
-        <img src="/img/page1-img1.png" alt="Picto" />
+        <img src="img/page1-img1.png" alt="Picto" />
         <div class="extra-wrap">
           <h2>LES CHAMBRES</h2>
           <ul class="list-1">
@@ -49,7 +49,7 @@
       </div>
       
       <div class="grid_12 box-1">
-        <img src="/img/page1-img1.png" alt="Picto" />
+        <img src="img/page1-img1.png" alt="Picto" />
         <div class="extra-wrap">
           <h2>LES RESTAURANTS &amp; LE BAR</h2>
             <ul class="list-1">
@@ -72,7 +72,7 @@
       </div>
       
       <div class="grid_12 box-1">
-        <img src="/img/page1-img1.png" alt="Picto" />
+        <img src="img/page1-img1.png" alt="Picto" />
         <div class="extra-wrap" id="spa">
           <h2>LE SPA</h2>
             <ul class="list-1">
@@ -86,7 +86,7 @@
       </div>
       
       <div class="grid_12 box-1">
-        <img src="/img/page1-img1.png" alt="Picto" />
+        <img src="img/page1-img1.png" alt="Picto" />
         <div class="extra-wrap" id="seminaires">
           <h2>LES SEMINAIRES &amp; MARIAGES</h2>
           <ul class="list-1">

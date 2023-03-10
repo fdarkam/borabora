@@ -11,7 +11,7 @@
     <div class="container_12 top">
       
       <div class="grid_12 box-1">
-        <img src="/img/vue.png" alt="" />
+        <img src="img/vue.png" alt="" />
       </div>
       
       <div class="grid_12 box-2 pad-1">

@@ -17,10 +17,10 @@
             <a href="/borabora/nos-tarifs.php">Nos tarifs</a>
           </li>
           <li<?php echo $_SERVER['SCRIPT_NAME'] == '/products.php' ? ' class="current"' : '' ?>>
-            <a href="#">Calendrier</a>
+            <a href="/borabora/calendar.php">Calendrier</a>
           </li>
           <li<?php echo $_SERVER['SCRIPT_NAME'] == '/contacts.php' ? ' class="current"' : '' ?>>
-            <a href="#">Contacts</a>
+            <a href="/borabora/contacts.php">Contacts</a>
           </li>
         </ul>
       </nav>
