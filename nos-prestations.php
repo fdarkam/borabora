@@ -1,4 +1,5 @@
-<?php $racine = $_SERVER['DOCUMENT_ROOT'] ?><!DOCTYPE html>
+<?php $racine = $_SERVER['DOCUMENT_ROOT'] ?>
+<!DOCTYPE html>
 <html lang="fr">
 <head>
   <title>Nos prestations - Le Bora-Bora</title>
