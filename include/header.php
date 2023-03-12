@@ -22,6 +22,9 @@
           <li<?php echo $_SERVER['SCRIPT_NAME'] == '/contacts.php' ? ' class="current"' : '' ?>>
             <a href="/borabora/contacts.php">Contacts</a>
           </li>
+          <li<?php echo $_SERVER['SCRIPT_NAME'] == '/reserver.php' ? ' class="current"' : '' ?>>
+            <a href="/borabora/reserver.php">Reserver</a>
+          </li>
         </ul>
       </nav>
       <div class="clear"></div>
